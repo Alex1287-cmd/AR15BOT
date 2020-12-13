@@ -47,8 +47,6 @@ const
 const {
     help,
     menu1,
-    menu2,
-    menu3,
     info,
     donate,
     alay,
